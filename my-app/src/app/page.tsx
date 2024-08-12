@@ -1,7 +1,8 @@
 import { Section, Container, Article } from "@/components/craft";
-import { AuroraBackground } from "@/components/ui/aurora-background";
-import { Button } from "@/components/ui/button";
-import { ModeToggle } from "@/components/ui/mode-toggle";
+import { AuroraBackground, } from "@/components/ui/aurora-background";
+import { FlipWords } from "@/components/ui/flip-words";
+
+const words = ["better", "cute", "beautiful", "modern"];
 
 export default function Home() {
   return (
