@@ -1,6 +1,5 @@
 import { Section, Container, Article } from "@/components/craft";
 import { AuroraBackground, } from "@/components/ui/aurora-background";
-import { FlipWords } from "@/components/ui/flip-words";
 
 const words = ["better", "cute", "beautiful", "modern"];
 
